@@ -9,9 +9,9 @@ I specialize in building scalable, user-focused solutions using modern web techn
 
 🔹 Technologies & Tools  
 - Frontend: HTML, CSS, JavaScript, React.js  
-- Backend: Strapi, .NET, C#  
+- Backend: Strapi, .NET, C# , Spring, SpringBoot, Hibernate , Servlet , Core Java 
 - Databases: MySQL  
-- Programming Languages: C, C++, JavaScript  
+- Programming Languages: C, C++, JavaScript , Java 
 
 🔹 Currently Learning  
 - Advanced React.js patterns  
